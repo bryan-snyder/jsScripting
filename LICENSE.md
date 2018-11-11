@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 
 The MIT License (MIT)
 
+=======
+# The MIT License (MIT)
+>>>>>>> bc205ca7ac251a6e6ac35cf8ea084880e3b960d4
 Copyright (c) 2018 Bryan Snyder
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
